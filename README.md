@@ -5,4 +5,4 @@ Hello, recruiters! Here are some buzzwords for you: Software Engineer, Developer
 
 For business inquiries, freelance work, or employer interest, please feel free to contact me at lancepeterson50@gmail.com.
 
-
+<a href="https://www.buymeacoffee.com/lancepeterson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
