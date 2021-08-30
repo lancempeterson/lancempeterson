@@ -21,7 +21,7 @@ Current Phones:<br>
 🤖 Android: Pixel 5a<br>
 🍎 iOS: iPhone X
 
-## Github Stats  
+## Github Stats
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lancempeterson&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -30,10 +30,4 @@ Current Phones:<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancempeterson&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<div sttyle='float:left'>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-</div>Thanks for stopping by!
+</td></tr></table>
