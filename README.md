@@ -10,5 +10,4 @@ I am a Software Engineer II and Mobile App Developer. I have over 5 years of mob
     <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-square&logo=swift&logoColor=white" />
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-square&logo=kotlin&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-square&logo=java&logoColor=white" />
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-square&logo=sqlite&logoColor=white" />
 </p>
