@@ -4,23 +4,11 @@ I am a Software Engineer II and Mobile App Developer. I have over 5 years of mob
 <br>
 🤖 Android: Pixel 5a, 🍎 iOS: iPhone X
 
-<!-- <a href="https://github.com/lancempeterson" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/lance-m-peterson-758b08109" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
-<!-- <a href="https://twitter.com/_lancepeterson" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> -->
-
-<!-- ## Github Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lancempeterson&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancempeterson&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table> -->
+<p>
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-square&logo=android&logoColor=white" />
+    <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-square&logo=ios&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-square&logo=swift&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-square&logo=kotlin&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-square&logo=java&logoColor=white" />
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-square&logo=sqlite&logoColor=white" />
+</p>
