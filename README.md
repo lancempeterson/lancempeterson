@@ -2,7 +2,7 @@
 
 I am a Mobile Engineer working on the future of language learning software. I have over 6 years of mobile app development experience, both native iOS dev and Android dev. I have a degree in Software Engineering from the University of Wisconsin-Platteville. I wish to work and collaborate with people from all backgrounds. No goal is too big! For business inquiries or employer interest, please feel free to contact me at lancepeterson50@gmail.com.
 <br>
-🤖 Android: Pixel 5a, 🍎 iOS: iPhone X
+🤖 Android: Pixel, 🍎 iOS: iPhone
 
 <p>
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-square&logo=android&logoColor=white" />
