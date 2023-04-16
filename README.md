@@ -1,8 +1,10 @@
 ### Hi, I'm Lance M. Peterson 
 
-I am a Mobile Engineer from Madison Wisconsin. I have over 6 years of mobile app development experience, both native iOS dev and Android dev. I have a degree in Software Engineering from the University of Wisconsin-Platteville. I wish to work and collaborate with people from all backgrounds. No goal is too big! For business inquiries or employer interest, please feel free to contact me at lancepeterson50@gmail.com.
+I am a Mobile Engineer from Madison Wisconsin. I have over 7 years of mobile app development experience, both native iOS dev and Android dev. I have a degree in Software Engineering from the University of Wisconsin-Platteville. I wish to work and collaborate with people from all backgrounds. No goal is too big! For business inquiries or employer interest, please feel free to contact me at lancepeterson50@gmail.com.
 <br>
 🍎 iOS, 🤖 Android
+
+iOS, Swift, UIKit, SwiftUI, RxSwift, Android, Kotlin, Java, Compose, SQLite, Realm, Firebase, CI/CD, Git
 
 <p>
     <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-square&logo=ios&logoColor=white" />
