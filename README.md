@@ -1,6 +1,15 @@
-### Lance M. Peterson
-My name is Lance M. Peterson. I graduated from the University of Wisconsin-Platteville with a B.S. Software Engineering degree. I currently work as a Software Engineer near Madison, Wisconsin. I am very mobile and I am willing to relocate anywhere in the world where I think there is an opportunity for career growth. I wish to work and collaborate with people from all backgrounds. No goal is too big!
+### Hi, I'm Lance M. Peterson 
 
-Hello, recruiters! Here are some buzzwords for you: Software Engineer, Developer, Programmer, Programming, Computer Science, Android Development, iOS Development, Mobile Development, Web Development, C++, Swift, Kotlin, Java, x86 Assembly, JavaScript, HTML5, CSS3, Competitive Programming, Coding, Code, Problem Solving, Debugging, Testing, UI/UX, Object Oriented Design, Rest API, Agile Development
+I am a Mobile Engineer from Madison Wisconsin. I have over 7 years of mobile app development experience, both native iOS dev and Android dev. I have a degree in Software Engineering from the University of Wisconsin-Platteville. I wish to work and collaborate with people from all backgrounds. No goal is too big! For business inquiries or employer interest, please feel free to contact me at lancepeterson50@gmail.com.
+<br>
+🍎 iOS, 🤖 Android
 
-For business inquiries, freelance work, or employer interest, please feel free to contact me at lancepeterson50@gmail.com.
+iOS, Swift, UIKit, SwiftUI, RxSwift, Android, Kotlin, Java, Compose, SQLite, Realm, Firebase, CI/CD, Git
+
+<p>
+    <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-square&logo=ios&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-square&logo=swift&logoColor=white" />
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-square&logo=android&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-square&logo=kotlin&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-square&logo=java&logoColor=white" />
+</p>
